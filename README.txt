@@ -2,7 +2,7 @@
 PROJECT SUMMARY
 >>>>>>>>>>>>>>>>>>>>>>
 
-The purpose of this project was to get familiar with the HTML5 and CSS web programming by creating a static grocery store website.
+The purpose of this project was to get familiar with the HTML5, CSS, Javascript and PHP environments for web programming by creating a static grocery store website.
 
 ___________________________________________________________________________________________________
 Frontstore Part
